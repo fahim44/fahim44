@@ -27,6 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Computer Program](https://fahim44.github.io/posts/2022/05/computer-program/)
+- [Squashing the commits](https://fahim44.github.io/posts/2021/07/squashing-the-commits/)
+- [Theorem of C.A.P](https://fahim44.github.io/posts/2021/06/theorem-of-c.a.p/)
+- [A.C.I.D.ity in database](https://fahim44.github.io/posts/2021/05/a.c.i.d.ity-in-database/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
