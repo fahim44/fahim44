@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/fahimsalam44" target="blank"><img src="https://img.shields.io/twitter/follow/fahimsalam44?logo=twitter&style=for-the-badge" alt="fahimsalam44" /></a> </p>
 
+<a href="https://www.buymeacoffee.com/fahim44" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 - 🔭 I’m currently working on [/e/OS](https://e.foundation/)
 
 - 🌱 I’m currently learning **AOSP development**
